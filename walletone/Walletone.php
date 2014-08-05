@@ -1,5 +1,5 @@
 <?php
-namespace walletone;
+namespace Walletone;
 
 class Walletone {
 

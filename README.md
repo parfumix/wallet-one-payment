@@ -1,6 +1,8 @@
 walletOnePayment
 ================
 
+## Example
+
 
 ```php
 try {

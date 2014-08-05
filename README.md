@@ -3,7 +3,7 @@ walletOnePayment
 
 ## Wallet One Payment
 
-
+``` 
     try {
         $walletInstance = \Walletone\Walletone::getInstance();
         
@@ -16,3 +16,4 @@ walletOnePayment
         $walletInstance->request();
     
     } catch (\Walletone\Exception $e) { }
+```

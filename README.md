@@ -1,6 +1,10 @@
 walletOnePayment
 ================
 
+## Requirements
+
+-   PHP5
+-   Naming of tables and columns that follows the Rails convention.
 ## Example
 
 

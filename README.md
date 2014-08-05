@@ -1,4 +1,4 @@
-walletOnePayment
+Wallet One Service Payment
 ================
 
 ## Requirements

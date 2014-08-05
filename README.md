@@ -5,6 +5,10 @@ Wallet One Service Payment
 
 -   PHP 5 >= 5.3.0
 
+
+### Api Documentation
+http://www.walletone.com/en/merchant/documentation/
+
 ## Example
  
 ```php

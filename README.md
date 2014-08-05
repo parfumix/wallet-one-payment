@@ -1,9 +1,8 @@
 walletOnePayment
 ================
 
-## Wallet One Payment
 
-``` 
+```php
 try {
     $walletInstance = \Walletone\Walletone::getInstance();
     
@@ -13,7 +12,7 @@ try {
                         ->setDescription('DESCRIPTION')
                           ->setPaymentNo('PAYMENT_NUMBER');
     
-    $walletInstance->request();
+    $walletInstance->request(); # redirecting user to payment page ...
 
 } catch (\Walletone\Exception $e) { }
 ```

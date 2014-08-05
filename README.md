@@ -21,7 +21,8 @@ try {
 
 
 ### Process Payment
-    Need to create an url to get an $_POST request from walletOne server with transatction status 
+
+Need to create an url to get an $_POST request from walletOne server with transatction status 
     
 ```php
     $walletInstance = \Walletone\Walletone::getInstance();

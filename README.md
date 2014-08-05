@@ -6,7 +6,7 @@ walletOnePayment
 -   PHP 5 >= 5.3.0
 
 ## Example
-
+ 
 ```php
 try {
     $walletInstance = \Walletone\Walletone::getInstance();

@@ -1,6 +1,8 @@
 Wallet One Service Payment
 ================
 
+[![Join the chat at https://gitter.im/parfumix/Wallet-One-Payment-Service](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/parfumix/Wallet-One-Payment-Service?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Requirements
 
 -   PHP 5 >= 5.3.0
